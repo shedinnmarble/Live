@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<playerList>
+  <player id="5459d4702407c11bcc000007">
+    <name>iG430</name>
+    <icon>http://uc.douyutv.com/avatar.php?uid=681913&amp;size=middle</icon>
+    <game>Dota2</game>
+    <categories>现役选手,退役选手</categories>
+    <recommend>true</recommend>
+    <level>34</level>
+    <gender>男</gender>
+    <description>dama</description>
+    <liveRooms>
+      <liveRoom>
+        <name>斗鱼Tv</name>
+        <url>fasdfsd</url>
+      </liveRoom>
+      <liveRoom>
+        <name>战旗Tv</name>
+        <url>fasdf</url>
+      </liveRoom>
+    </liveRooms>
+  </player>
+  <player id="545b0eca2407c120cc000006">
+    <name>张宁_xiao8</name>
+    <icon></icon>
+    <game>Dota2</game>
+    <categories>退役选手</categories>
+    <recommend>false</recommend>
+    <level>4</level>
+    <description>asdf</description>
+    <liveRooms>
+      <liveRoom>
+        <name>斗鱼Tv</name>
+        <url>http://www.douyutv.com/xiao8</url>
+      </liveRoom>
+    </liveRooms>
+  </player>
+  <player id="545b1b752407c11d68000002">
+    <name>伍声2009</name>
+    <icon>/PlayerIcon/bdf3bf1da3405725be763540d6601144.jpg</icon>
+    <game>Dota2</game>
+    <categories>退役选手</categories>
+    <recommend>false</recommend>
+    <level>53</level>
+    <description></description>
+    <liveRooms>
+      <liveRoom>
+        <name>斗鱼Tv</name>
+        <url>afsdf</url>
+      </liveRoom>
+    </liveRooms>
+  </player>
+  <player id="5460396e2407c11980000002">
+    <name>asdf</name>
+    <icon>sdf</icon>
+    <game>Dota2</game>
+    <categories>现役选手</categories>
+    <recommend>true</recommend>
+    <level>0</level>
+    <description>fasdf</description>
+    <liveRooms>
+      <liveRoom>
+        <name>火猫Tv</name>
+        <url>fasdf</url>
+      </liveRoom>
+    </liveRooms>
+  </player>
+  <player id="54603a132407c11980000013">
+    <name>fasdf</name>
+    <icon>asdfasdf</icon>
+    <game>Dota2</game>
+    <categories>退役选手</categories>
+    <recommend>false</recommend>
+    <level>0</level>
+    <description>asdfasdfasdfasf</description>
+    <liveRooms>
+      <liveRoom>
+        <name>斗鱼Tv</name>
+        <url>fasdfasd</url>
+      </liveRoom>
+      <liveRoom>
+        <name>_17173</name>
+        <url>fasdfasd</url>
+      </liveRoom>
+      <liveRoom>
+        <name>火猫Tv</name>
+        <url>fasdfasd</url>
+      </liveRoom>
+    </liveRooms>
+  </player>
+  <player id="54605b112407c129d400000c">
+    <name>yyf</name>
+    <icon />
+    <game>Dota2</game>
+    <categories>退役选手</categories>
+    <recommend>false</recommend>
+    <level>0</level>
+    <description>yyf</description>
+    <liveRooms>
+      <liveRoom>
+        <name>斗鱼Tv</name>
+        <url>http://www.douyutv.com/58428</url>
+      </liveRoom>
+    </liveRooms>
+  </player>
+  <player id="546577022407c11cac00000e">
+    <name>asdf</name>
+    <icon>/PlayerIcon/5a44c7ba5bbe4ec867233d67e4806848.jpg</icon>
+    <game>Dota2</game>
+    <categories>退役选手</categories>
+    <recommend>false</recommend>
+    <level>0</level>
+    <description>afsd</description>
+    <liveRooms />
+  </player>
+  <player id="546577472407c122b8000004">
+    <name>adf</name>
+    <icon>/PlayerIcon/5a44c7ba5bbe4ec867233d67e4806848.jpg</icon>
+    <game>Dota2</game>
+    <categories>退役选手</categories>
+    <recommend>false</recommend>
+    <level>0</level>
+    <description>asdfasdf</description>
+    <liveRooms />
+  </player>
+</playerList>

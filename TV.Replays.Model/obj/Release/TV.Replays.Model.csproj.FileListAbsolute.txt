@@ -1,0 +1,7 @@
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Model\bin\Release\TV.Replays.Model.dll
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Model\bin\Release\TV.Replays.Model.pdb
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Model\bin\Release\MongoDB.dll
+C:\Users\liuhuifeng\Desktop\TV.Replays\Lib\TV.Replays.Model.dll
+C:\Users\liuhuifeng\Desktop\TV.Replays\Lib\TV.Replays.Model.pdb
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Model\obj\Release\TV.Replays.Model.dll
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Model\obj\Release\TV.Replays.Model.pdb

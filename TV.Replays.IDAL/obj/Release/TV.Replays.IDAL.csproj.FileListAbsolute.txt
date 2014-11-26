@@ -1,0 +1,10 @@
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.IDAL\bin\Release\TV.Replays.IDAL.dll
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.IDAL\bin\Release\TV.Replays.IDAL.pdb
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.IDAL\bin\Release\TV.Replays.Model.dll
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.IDAL\bin\Release\MongoDB.dll
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.IDAL\bin\Release\TV.Replays.Model.pdb
+C:\Users\liuhuifeng\Desktop\TV.Replays\Lib\TV.Replays.IDAL.dll
+C:\Users\liuhuifeng\Desktop\TV.Replays\Lib\TV.Replays.IDAL.pdb
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.IDAL\obj\Release\TV.Replays.IDAL.csprojResolveAssemblyReference.cache
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.IDAL\obj\Release\TV.Replays.IDAL.dll
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.IDAL\obj\Release\TV.Replays.IDAL.pdb

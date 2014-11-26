@@ -1,0 +1,11 @@
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.WcfClientTest\bin\Release\TV.Replays.WcfClientTest.exe.config
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.WcfClientTest\bin\Release\TV.Replays.WcfClientTest.exe
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.WcfClientTest\bin\Release\TV.Replays.WcfClientTest.pdb
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.WcfClientTest\bin\Release\TV.Replays.Contract.dll
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.WcfClientTest\bin\Release\TV.Replays.Model.dll
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.WcfClientTest\bin\Release\MongoDB.dll
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.WcfClientTest\bin\Release\TV.Replays.Contract.pdb
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.WcfClientTest\bin\Release\TV.Replays.Model.pdb
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.WcfClientTest\obj\Release\TV.Replays.WcfClientTest.csprojResolveAssemblyReference.cache
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.WcfClientTest\obj\Release\TV.Replays.WcfClientTest.exe
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.WcfClientTest\obj\Release\TV.Replays.WcfClientTest.pdb

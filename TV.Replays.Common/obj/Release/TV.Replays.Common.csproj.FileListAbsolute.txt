@@ -1,0 +1,4 @@
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Common\bin\Release\TV.Replays.Common.dll
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Common\bin\Release\TV.Replays.Common.pdb
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Common\obj\Release\TV.Replays.Common.dll
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Common\obj\Release\TV.Replays.Common.pdb

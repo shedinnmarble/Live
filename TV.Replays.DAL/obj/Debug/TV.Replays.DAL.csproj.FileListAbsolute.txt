@@ -1,0 +1,10 @@
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.DAL\bin\Debug\TV.Replays.DAL.dll
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.DAL\bin\Debug\TV.Replays.DAL.pdb
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.DAL\bin\Debug\TV.Replays.IDAL.dll
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.DAL\bin\Debug\TV.Replays.Model.dll
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.DAL\bin\Debug\MongoDB.dll
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.DAL\bin\Debug\TV.Replays.IDAL.pdb
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.DAL\bin\Debug\TV.Replays.Model.pdb
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.DAL\obj\Debug\TV.Replays.DAL.csprojResolveAssemblyReference.cache
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.DAL\obj\Debug\TV.Replays.DAL.dll
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.DAL\obj\Debug\TV.Replays.DAL.pdb

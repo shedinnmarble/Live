@@ -1,0 +1,10 @@
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Contract\bin\Release\TV.Replays.Contract.dll
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Contract\bin\Release\TV.Replays.Contract.pdb
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Contract\bin\Release\TV.Replays.Model.dll
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Contract\bin\Release\MongoDB.dll
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Contract\bin\Release\TV.Replays.Model.pdb
+C:\Users\liuhuifeng\Desktop\TV.Replays\Lib\TV.Replays.Contract.dll
+C:\Users\liuhuifeng\Desktop\TV.Replays\Lib\TV.Replays.Contract.pdb
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Contract\obj\Release\TV.Replays.Contract.csprojResolveAssemblyReference.cache
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Contract\obj\Release\TV.Replays.Contract.dll
+C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Contract\obj\Release\TV.Replays.Contract.pdb
