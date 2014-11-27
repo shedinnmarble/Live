@@ -39,6 +39,8 @@ namespace TV.Replays.Service
             vm.Name = player.Name;
             vm.Icon = player.Icon;
             vm.IsOnline = player.IsOnline();
+            if (player.Live != null)
+                vm.ViewSum = player.Live.ViewSumToNumber();
 
             return vm;
         }
