@@ -16,3 +16,10 @@ C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Service\obj\Release\TV.Replays
 C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Service\obj\Release\TV.Replays.Service.csproj.GenerateResource.Cache
 C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Service\obj\Release\TV.Replays.Service.dll
 C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Service\obj\Release\TV.Replays.Service.pdb
+F:\github\live\Lib\TV.Replays.Service.dll
+F:\github\live\Lib\TV.Replays.Service.pdb
+F:\github\live\TV.Replays.Service\obj\Release\TV.Replays.Service.csprojResolveAssemblyReference.cache
+F:\github\live\TV.Replays.Service\obj\Release\TV.Replays.Service.Properties.Resources.resources
+F:\github\live\TV.Replays.Service\obj\Release\TV.Replays.Service.csproj.GenerateResource.Cache
+F:\github\live\TV.Replays.Service\obj\Release\TV.Replays.Service.dll
+F:\github\live\TV.Replays.Service\obj\Release\TV.Replays.Service.pdb

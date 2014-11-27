@@ -10,3 +10,8 @@ C:\Users\liuhuifeng\Desktop\TV.Replays\Lib\TV.Replays.DAL.pdb
 C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.DAL\obj\Release\TV.Replays.DAL.csprojResolveAssemblyReference.cache
 C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.DAL\obj\Release\TV.Replays.DAL.dll
 C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.DAL\obj\Release\TV.Replays.DAL.pdb
+F:\github\live\Lib\TV.Replays.DAL.dll
+F:\github\live\Lib\TV.Replays.DAL.pdb
+F:\github\live\TV.Replays.DAL\obj\Release\TV.Replays.DAL.csprojResolveAssemblyReference.cache
+F:\github\live\TV.Replays.DAL\obj\Release\TV.Replays.DAL.dll
+F:\github\live\TV.Replays.DAL\obj\Release\TV.Replays.DAL.pdb

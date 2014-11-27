@@ -16,5 +16,12 @@ namespace TV.Replays.WebApi.Models
                 Process.Start(fileName);
             }
         }
+
+        public static void Close(string processName)
+        {
+            var processes = Process.GetProcessesByName(processName);
+            if (processes != null && processes.Length > 0)
+                processes[0].Kill();
+        }
     }
 }

@@ -163,5 +163,11 @@ namespace TV.Replays.WebApi.Controllers
             return url;
 
         }
+
+        public ActionResult ServerShutdown()
+        {
+            WcfServiceInitator.Close("TV.Replays.Dota2Hosting");
+            return Content("closed");
+        }
     }
 }

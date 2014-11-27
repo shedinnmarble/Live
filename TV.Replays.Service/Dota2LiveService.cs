@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -25,7 +24,7 @@ namespace TV.Replays.Service
                 }, null, 0, 30000);
         }
 
-        private static ConcurrentDictionary<string, Live> liveCache;
+        private static Dictionary<string, Live> liveCache;
         private static Timer UpdateLiveCacheTimer;
 
         public IEnumerable<Live> Lives
@@ -34,7 +33,6 @@ namespace TV.Replays.Service
             {
                 if (liveCache == null)
                 {
-                    liveCache = new ConcurrentDictionary<string, Live>();
                     LoadOrUpdateLiveCache();
                 }
                 return liveCache.Values;
@@ -44,15 +42,17 @@ namespace TV.Replays.Service
         private void LoadOrUpdateLiveCache()
         {
             var tvList = TvFactory.CreateTvList();
+            Dictionary<string, Live> dota2Dic = new Dictionary<string, Live>();
             foreach (var tv in tvList)
             {
                 var dota2List = tv.GetDota2();
                 foreach (var dota2Live in dota2List)
                 {
                     string key = CreateLiveCacheKey(dota2Live);
-                    liveCache.AddOrUpdate(key, dota2Live, (k, v) => dota2Live);
+                    dota2Dic.Add(key, dota2Live);
                 }
             }
+            liveCache = dota2Dic;
         }
 
         public static string CreateLiveCacheKey(Live live)

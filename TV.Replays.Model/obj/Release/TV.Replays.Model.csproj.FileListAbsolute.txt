@@ -5,3 +5,7 @@ C:\Users\liuhuifeng\Desktop\TV.Replays\Lib\TV.Replays.Model.dll
 C:\Users\liuhuifeng\Desktop\TV.Replays\Lib\TV.Replays.Model.pdb
 C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Model\obj\Release\TV.Replays.Model.dll
 C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Model\obj\Release\TV.Replays.Model.pdb
+F:\github\live\Lib\TV.Replays.Model.dll
+F:\github\live\Lib\TV.Replays.Model.pdb
+F:\github\live\TV.Replays.Model\obj\Release\TV.Replays.Model.dll
+F:\github\live\TV.Replays.Model\obj\Release\TV.Replays.Model.pdb
