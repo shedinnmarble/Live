@@ -10,6 +10,6 @@ C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Contract\obj\Release\TV.Replay
 C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Contract\obj\Release\TV.Replays.Contract.pdb
 F:\github\live\Lib\TV.Replays.Contract.dll
 F:\github\live\Lib\TV.Replays.Contract.pdb
+F:\github\live\TV.Replays.Contract\obj\Release\TV.Replays.Contract.csprojResolveAssemblyReference.cache
 F:\github\live\TV.Replays.Contract\obj\Release\TV.Replays.Contract.dll
 F:\github\live\TV.Replays.Contract\obj\Release\TV.Replays.Contract.pdb
-F:\github\live\TV.Replays.Contract\obj\Release\TV.Replays.Contract.csprojResolveAssemblyReference.cache

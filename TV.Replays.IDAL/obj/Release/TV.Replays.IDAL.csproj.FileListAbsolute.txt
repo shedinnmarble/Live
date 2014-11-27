@@ -10,6 +10,6 @@ C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.IDAL\obj\Release\TV.Replays.ID
 C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.IDAL\obj\Release\TV.Replays.IDAL.pdb
 F:\github\live\Lib\TV.Replays.IDAL.dll
 F:\github\live\Lib\TV.Replays.IDAL.pdb
+F:\github\live\TV.Replays.IDAL\obj\Release\TV.Replays.IDAL.csprojResolveAssemblyReference.cache
 F:\github\live\TV.Replays.IDAL\obj\Release\TV.Replays.IDAL.dll
 F:\github\live\TV.Replays.IDAL\obj\Release\TV.Replays.IDAL.pdb
-F:\github\live\TV.Replays.IDAL\obj\Release\TV.Replays.IDAL.csprojResolveAssemblyReference.cache

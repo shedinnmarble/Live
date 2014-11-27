@@ -2,3 +2,7 @@ C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Common\bin\Release\TV.Replays.
 C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Common\bin\Release\TV.Replays.Common.pdb
 C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Common\obj\Release\TV.Replays.Common.dll
 C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.Common\obj\Release\TV.Replays.Common.pdb
+F:\github\live\TV.Replays.Common\bin\Release\TV.Replays.Common.dll
+F:\github\live\TV.Replays.Common\bin\Release\TV.Replays.Common.pdb
+F:\github\live\TV.Replays.Common\obj\Release\TV.Replays.Common.dll
+F:\github\live\TV.Replays.Common\obj\Release\TV.Replays.Common.pdb

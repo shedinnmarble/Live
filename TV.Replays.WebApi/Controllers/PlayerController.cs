@@ -20,7 +20,7 @@ namespace TV.Replays.WebApi.Controllers
             {
                 var channel = channelFactory.CreateChannel();
                 players = channel.GetPlayerViewModels()
-                    .OrderByDescending(a => a.IsOnline);
+                    .OrderByDescending(a => a.ViewSum);
             }
 
             if (players.Count() > DefaultCount)

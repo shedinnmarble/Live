@@ -10,8 +10,6 @@ C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.WcfClientTest\obj\Release\TV.R
 C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.WcfClientTest\obj\Release\TV.Replays.WcfClientTest.exe
 C:\Users\liuhuifeng\Desktop\TV.Replays\TV.Replays.WcfClientTest\obj\Release\TV.Replays.WcfClientTest.pdb
 F:\github\live\TV.Replays.WcfClientTest\bin\Release\TV.Replays.WcfClientTest.exe.config
-F:\github\live\TV.Replays.WcfClientTest\obj\Release\TV.Replays.WcfClientTest.exe
-F:\github\live\TV.Replays.WcfClientTest\obj\Release\TV.Replays.WcfClientTest.pdb
 F:\github\live\TV.Replays.WcfClientTest\bin\Release\TV.Replays.WcfClientTest.exe
 F:\github\live\TV.Replays.WcfClientTest\bin\Release\TV.Replays.WcfClientTest.pdb
 F:\github\live\TV.Replays.WcfClientTest\bin\Release\TV.Replays.Contract.dll
@@ -20,3 +18,5 @@ F:\github\live\TV.Replays.WcfClientTest\bin\Release\MongoDB.dll
 F:\github\live\TV.Replays.WcfClientTest\bin\Release\TV.Replays.Contract.pdb
 F:\github\live\TV.Replays.WcfClientTest\bin\Release\TV.Replays.Model.pdb
 F:\github\live\TV.Replays.WcfClientTest\obj\Release\TV.Replays.WcfClientTest.csprojResolveAssemblyReference.cache
+F:\github\live\TV.Replays.WcfClientTest\obj\Release\TV.Replays.WcfClientTest.exe
+F:\github\live\TV.Replays.WcfClientTest\obj\Release\TV.Replays.WcfClientTest.pdb
