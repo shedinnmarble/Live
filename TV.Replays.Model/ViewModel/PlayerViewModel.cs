@@ -11,5 +11,6 @@ namespace TV.Replays.Model.ViewModel
         public string Name { get; set; }
         public string Icon { get; set; }
         public bool IsOnline { get; set; }
+        public int ViewSum { get; set; }
     }
 }

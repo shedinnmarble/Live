@@ -90,10 +90,10 @@
   </player>
   <player id="54605b112407c129d400000c">
     <name>yyf</name>
-    <icon />
+    <icon></icon>
     <game>Dota2</game>
     <categories>退役选手</categories>
-    <recommend>false</recommend>
+    <recommend>true</recommend>
     <level>0</level>
     <description>yyf</description>
     <liveRooms>
