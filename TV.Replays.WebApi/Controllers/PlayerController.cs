@@ -11,7 +11,7 @@ namespace TV.Replays.WebApi.Controllers
 {
     public class PlayerController : ApiController
     {
-        const int DefaultCount = 15;
+        const int DefaultCount = 12;
 
         public IEnumerable<PlayerViewModel> Get()
         {
