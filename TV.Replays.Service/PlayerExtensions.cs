@@ -51,6 +51,7 @@ namespace TV.Replays.Service
             {
                 vm.Title = player.Live.Title;
                 vm.ViewSum = player.Live.ViewSumToNumber();
+                vm.Url = player.Live.GetVideoLink();
             }
             vm.PlayerName = player.Name;
             vm.Icon = player.Icon;

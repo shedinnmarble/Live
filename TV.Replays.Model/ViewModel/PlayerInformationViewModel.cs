@@ -19,5 +19,6 @@ namespace TV.Replays.Model.ViewModel
         public string Description { get; set; }
         public string[] Categories { get; set; }
         public int ViewSum { get; set; }
+        public string Url { get; set; }
     }
 }

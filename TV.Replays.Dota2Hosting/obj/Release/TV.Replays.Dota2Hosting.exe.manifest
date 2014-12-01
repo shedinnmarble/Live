@@ -61,7 +61,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>XgFKv44ppNVHVbf4FdLHyPwTR7Y=</dsig:DigestValue>
+        <dsig:DigestValue>gee/V5ej83QfCPAd1ftgNtpCC/M=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -73,7 +73,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>ZLPzTwpn63OqDAQE0YSzP/28Oy0=</dsig:DigestValue>
+        <dsig:DigestValue>CkULLHhtC06LdyfQZlsbf/RuEoU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -85,7 +85,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>oyYk221LO2G4c5jpp2t2uV9viBI=</dsig:DigestValue>
+        <dsig:DigestValue>iPRn75CugZz0gGWfXBiBqq/Bs2A=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -97,19 +97,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>8aeU8rzD4nMZjagOJuQhaOXcBQI=</dsig:DigestValue>
+        <dsig:DigestValue>cMKjHboU2SHqe2MOMq9p9AWD5E8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TV.Replays.Model.dll" size="15872">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TV.Replays.Model.dll" size="16384">
       <assemblyIdentity name="TV.Replays.Model" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>cvdAXaJHyqHw54ez5/zUMCeyqo0=</dsig:DigestValue>
+        <dsig:DigestValue>6e0ncSUIwqEmLMxQOerH8sGb6EM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -121,7 +121,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>ad0+M+HBjAb90pe/kDsXumIVM1c=</dsig:DigestValue>
+        <dsig:DigestValue>a2xlbzqkLaRYr2RukPP/YB1yirY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
