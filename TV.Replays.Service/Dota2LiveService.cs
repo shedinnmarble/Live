@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading;
+using System.Threading.Tasks;
 using TV.Replays.Contract;
 using TV.Replays.DAL;
 using TV.Replays.IDAL;
@@ -21,38 +23,53 @@ namespace TV.Replays.Service
                 UpdateLiveCacheTimer = new Timer(state =>
                 {
                     LoadOrUpdateLiveCache();
-                }, null, 0, 30000);
+                    UpdateLiveCacheTimer.Change(15000, Timeout.Infinite);
+                }, null, 0, Timeout.Infinite);
         }
 
-        private static Dictionary<string, Live> liveCache;
+        private static Dictionary<string, Live> liveCache = new Dictionary<string, Live>();
         private static Timer UpdateLiveCacheTimer;
 
         public IEnumerable<Live> Lives
         {
             get
             {
-                if (liveCache == null)
-                {
-                    LoadOrUpdateLiveCache();
-                }
                 return liveCache.Values;
             }
         }
 
         private void LoadOrUpdateLiveCache()
         {
-            var tvList = TvFactory.CreateTvList();
+            var tvList = TV.Replays.Platform.TvFactory.CreateTvList();
             Dictionary<string, Live> dota2Dic = new Dictionary<string, Live>();
+
+            foreach (var dota2Live in GetDota2Lives(tvList))
+            {
+                string key = CreateLiveCacheKey(dota2Live);
+                dota2Dic.Add(key, dota2Live);
+            }
+
+            liveCache = dota2Dic;
+        }
+
+        private static IEnumerable<Live> GetDota2Lives(IEnumerable<ITv> tvList)
+        {
+            List<Task<IEnumerable<Live>>> tasks = new List<Task<IEnumerable<Live>>>();
             foreach (var tv in tvList)
             {
-                var dota2List = tv.GetDota2();
-                foreach (var dota2Live in dota2List)
+                var task = Task.Factory.StartNew<IEnumerable<Live>>(() =>
                 {
-                    string key = CreateLiveCacheKey(dota2Live);
-                    dota2Dic.Add(key, dota2Live);
-                }
+                    return tv.GetDota2();
+                });
+                tasks.Add(task);
             }
-            liveCache = dota2Dic;
+
+            List<Live> dota2Lives = new List<Live>();
+            foreach (var task in tasks)
+            {
+                dota2Lives.AddRange(task.Result);
+            }
+            return dota2Lives;
         }
 
         public static string CreateLiveCacheKey(Live live)

@@ -7,14 +7,14 @@
     <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="TV.Replays.Dota2Hosting.exe.manifest" size="7287">
+    <dependentAssembly dependencyType="install" codebase="TV.Replays.Dota2Hosting.exe.manifest" size="10612">
       <assemblyIdentity name="TV.Replays.Dota2Hosting.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>9G8qgfmjbv6i2se+ab2kXk+YmG8=</dsig:DigestValue>
+        <dsig:DigestValue>v/peOELcv26QPvf6ZWQPEk83gHY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

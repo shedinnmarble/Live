@@ -88,6 +88,10 @@
       <Project>{6caabfcd-1b18-485b-9b5a-13180cf567fa}</Project>
       <Name>TV.Replays.Model</Name>
     </ProjectReference>
+    <ProjectReference Include="..\TV.Replays.Platform\TV.Replays.Platform.csproj">
+      <Project>{b99f4217-7c9d-42e2-932c-c4deb4aea091}</Project>
+      <Name>TV.Replays.Platform</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

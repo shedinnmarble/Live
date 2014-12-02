@@ -40,3 +40,12 @@ F:\github\live\TV.Replays.Dota2Hosting\obj\Release\TV.Replays.Dota2Hosting.exe.m
 F:\github\live\TV.Replays.Dota2Hosting\obj\Release\TV.Replays.Dota2Hosting.application
 F:\github\live\TV.Replays.Dota2Hosting\obj\Release\TV.Replays.Dota2Hosting.exe
 F:\github\live\TV.Replays.Dota2Hosting\obj\Release\TV.Replays.Dota2Hosting.pdb
+F:\github\live\TV.Replays.Dota2Hosting\bin\Release\TV.Replays.Platform.dll
+F:\github\live\TV.Replays.Dota2Hosting\bin\Release\System.Net.Http.dll
+F:\github\live\TV.Replays.Dota2Hosting\bin\Release\HtmlAgilityPack.dll
+F:\github\live\TV.Replays.Dota2Hosting\bin\Release\Newtonsoft.Json.dll
+F:\github\live\TV.Replays.Dota2Hosting\bin\Release\TV.Replays.Platform.pdb
+F:\github\live\TV.Replays.Dota2Hosting\bin\Release\System.Net.Http.xml
+F:\github\live\TV.Replays.Dota2Hosting\bin\Release\HtmlAgilityPack.pdb
+F:\github\live\TV.Replays.Dota2Hosting\bin\Release\HtmlAgilityPack.xml
+F:\github\live\TV.Replays.Dota2Hosting\bin\Release\zh-Hans\System.Net.Http.resources.dll

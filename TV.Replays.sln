@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TV.Replays.WebApi", "TV.Rep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TV.Replays.Common", "TV.Replays.Common\TV.Replays.Common.csproj", "{CAFCC030-880E-4015-B24A-0AEFA8F723EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TV.Replays.Platform", "TV.Replays.Platform\TV.Replays.Platform.csproj", "{B99F4217-7C9D-42E2-932C-C4DEB4AEA091}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{CAFCC030-880E-4015-B24A-0AEFA8F723EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAFCC030-880E-4015-B24A-0AEFA8F723EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAFCC030-880E-4015-B24A-0AEFA8F723EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B99F4217-7C9D-42E2-932C-C4DEB4AEA091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B99F4217-7C9D-42E2-932C-C4DEB4AEA091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B99F4217-7C9D-42E2-932C-C4DEB4AEA091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B99F4217-7C9D-42E2-932C-C4DEB4AEA091}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
