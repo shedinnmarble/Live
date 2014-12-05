@@ -63,24 +63,24 @@ namespace TV.Replays.Platform.Tv
 
         public string GetVideoLink(string liveRoomId)
         {
-            //string url = "http://www.zhanqi.tv/" + liveRoomId;
-            //HttpClient client = new HttpClient();
-            //var result = client.GetStringAsync(url);
-            //string html = result.Result;
+            string id = Rooms.ContainsKey(liveRoomId) ? Rooms[liveRoomId] : liveRoomId;
+            return "http://www.zhanqi.tv/live/embed?roomId=" + id;
+        }
 
-            //HtmlDocument doc = new HtmlDocument();
-            //doc.LoadHtml(html);
-
-            //HtmlNode element = doc.GetElementbyId("js-flash-layer");
-            //var roomLink = element.SelectNodes("div")[0].SelectNodes("div")[0].SelectSingleNode("a").GetAttributeValue("href", "");
-            //string[] sprit = roomLink.Split('?');
-            //string roomId = String.Empty;
-            //if (sprit.Length > 0)
-            //    roomId = sprit[1];
-
-            //return "http://www.zhanqi.tv/live/embed?" + roomId;
-
-            return "http://www.zhanqi.tv/live/embed?roomId=" + liveRoomId;
+        public static Dictionary<string, string> Rooms = new Dictionary<string, string>();
+        static ZhanQiTv()
+        {
+            Rooms.Add("buring", "2140");
+            Rooms.Add("xiwa", "140");
+            Rooms.Add("2009", "5161");
+            Rooms.Add("achuan", "7679");
+            Rooms.Add("laoshusjq", "2021");
+            Rooms.Add("naigege", "737");
+            Rooms.Add("eh820", "161");
+            Rooms.Add("scntv", "252");
+            Rooms.Add("air", "784");
+            Rooms.Add("fyms", "249");
+            Rooms.Add("cctv", "6341");
         }
     }
 }
