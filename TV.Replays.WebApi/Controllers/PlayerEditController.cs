@@ -167,16 +167,16 @@ namespace TV.Replays.WebApi.Controllers
         public ActionResult Close()
         {
             string processName = "TV.Replays.Dota2Hosting";
-            WcfServiceInitator.Close(processName);
-            return Content("closed");
+            int result = WcfServiceInitator.Close(processName);
+            return Content("closed " + result);
         }
 
         public ActionResult Open()
         {
             string fileName = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "TV.Replays.Dota2Hosting.exe");
             string processName = "TV.Replays.Dota2Hosting";
-            Models.WcfServiceInitator.Start(fileName, processName);
-            return Content("opened");
+            int result = Models.WcfServiceInitator.Start(fileName, processName);
+            return Content("opened " + result + " " + fileName);
         }
     }
 }
