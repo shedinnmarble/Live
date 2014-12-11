@@ -6,3 +6,8 @@ F:\github\live\TV.Replays.Common\bin\Release\TV.Replays.Common.dll
 F:\github\live\TV.Replays.Common\bin\Release\TV.Replays.Common.pdb
 F:\github\live\TV.Replays.Common\obj\Release\TV.Replays.Common.dll
 F:\github\live\TV.Replays.Common\obj\Release\TV.Replays.Common.pdb
+E:\工作文件夹\Replays.Live\Live\TV.Replays.Common\bin\Release\TV.Replays.Common.dll
+E:\工作文件夹\Replays.Live\Live\TV.Replays.Common\bin\Release\TV.Replays.Common.pdb
+E:\工作文件夹\Replays.Live\Live\TV.Replays.Common\obj\Release\TV.Replays.Common.csprojResolveAssemblyReference.cache
+E:\工作文件夹\Replays.Live\Live\TV.Replays.Common\obj\Release\TV.Replays.Common.dll
+E:\工作文件夹\Replays.Live\Live\TV.Replays.Common\obj\Release\TV.Replays.Common.pdb

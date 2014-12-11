@@ -9,3 +9,7 @@ F:\github\live\Lib\TV.Replays.Model.dll
 F:\github\live\Lib\TV.Replays.Model.pdb
 F:\github\live\TV.Replays.Model\obj\Release\TV.Replays.Model.dll
 F:\github\live\TV.Replays.Model\obj\Release\TV.Replays.Model.pdb
+E:\工作文件夹\Replays.Live\Live\Lib\TV.Replays.Model.dll
+E:\工作文件夹\Replays.Live\Live\Lib\TV.Replays.Model.pdb
+E:\工作文件夹\Replays.Live\Live\TV.Replays.Model\obj\Release\TV.Replays.Model.dll
+E:\工作文件夹\Replays.Live\Live\TV.Replays.Model\obj\Release\TV.Replays.Model.pdb

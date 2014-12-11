@@ -15,3 +15,8 @@ F:\github\live\Lib\TV.Replays.DAL.pdb
 F:\github\live\TV.Replays.DAL\obj\Release\TV.Replays.DAL.csprojResolveAssemblyReference.cache
 F:\github\live\TV.Replays.DAL\obj\Release\TV.Replays.DAL.dll
 F:\github\live\TV.Replays.DAL\obj\Release\TV.Replays.DAL.pdb
+E:\工作文件夹\Replays.Live\Live\Lib\TV.Replays.DAL.dll
+E:\工作文件夹\Replays.Live\Live\Lib\TV.Replays.DAL.pdb
+E:\工作文件夹\Replays.Live\Live\TV.Replays.DAL\obj\Release\TV.Replays.DAL.csprojResolveAssemblyReference.cache
+E:\工作文件夹\Replays.Live\Live\TV.Replays.DAL\obj\Release\TV.Replays.DAL.dll
+E:\工作文件夹\Replays.Live\Live\TV.Replays.DAL\obj\Release\TV.Replays.DAL.pdb

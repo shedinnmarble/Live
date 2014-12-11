@@ -20,3 +20,14 @@ F:\github\live\TV.Replays.WcfClientTest\bin\Release\TV.Replays.Model.pdb
 F:\github\live\TV.Replays.WcfClientTest\obj\Release\TV.Replays.WcfClientTest.csprojResolveAssemblyReference.cache
 F:\github\live\TV.Replays.WcfClientTest\obj\Release\TV.Replays.WcfClientTest.exe
 F:\github\live\TV.Replays.WcfClientTest\obj\Release\TV.Replays.WcfClientTest.pdb
+E:\工作文件夹\Replays.Live\Live\TV.Replays.WcfClientTest\bin\Release\TV.Replays.WcfClientTest.exe.config
+E:\工作文件夹\Replays.Live\Live\TV.Replays.WcfClientTest\bin\Release\TV.Replays.WcfClientTest.exe
+E:\工作文件夹\Replays.Live\Live\TV.Replays.WcfClientTest\bin\Release\TV.Replays.WcfClientTest.pdb
+E:\工作文件夹\Replays.Live\Live\TV.Replays.WcfClientTest\bin\Release\TV.Replays.Contract.dll
+E:\工作文件夹\Replays.Live\Live\TV.Replays.WcfClientTest\bin\Release\TV.Replays.Model.dll
+E:\工作文件夹\Replays.Live\Live\TV.Replays.WcfClientTest\bin\Release\MongoDB.dll
+E:\工作文件夹\Replays.Live\Live\TV.Replays.WcfClientTest\bin\Release\TV.Replays.Contract.pdb
+E:\工作文件夹\Replays.Live\Live\TV.Replays.WcfClientTest\bin\Release\TV.Replays.Model.pdb
+E:\工作文件夹\Replays.Live\Live\TV.Replays.WcfClientTest\obj\Release\TV.Replays.WcfClientTest.csprojResolveAssemblyReference.cache
+E:\工作文件夹\Replays.Live\Live\TV.Replays.WcfClientTest\obj\Release\TV.Replays.WcfClientTest.exe
+E:\工作文件夹\Replays.Live\Live\TV.Replays.WcfClientTest\obj\Release\TV.Replays.WcfClientTest.pdb

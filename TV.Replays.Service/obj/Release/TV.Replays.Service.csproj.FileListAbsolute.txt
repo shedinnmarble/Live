@@ -23,3 +23,10 @@ F:\github\live\TV.Replays.Service\obj\Release\TV.Replays.Service.Properties.Reso
 F:\github\live\TV.Replays.Service\obj\Release\TV.Replays.Service.csproj.GenerateResource.Cache
 F:\github\live\TV.Replays.Service\obj\Release\TV.Replays.Service.dll
 F:\github\live\TV.Replays.Service\obj\Release\TV.Replays.Service.pdb
+E:\工作文件夹\Replays.Live\Live\Lib\TV.Replays.Service.dll
+E:\工作文件夹\Replays.Live\Live\Lib\TV.Replays.Service.pdb
+E:\工作文件夹\Replays.Live\Live\TV.Replays.Service\obj\Release\TV.Replays.Service.csprojResolveAssemblyReference.cache
+E:\工作文件夹\Replays.Live\Live\TV.Replays.Service\obj\Release\TV.Replays.Service.Properties.Resources.resources
+E:\工作文件夹\Replays.Live\Live\TV.Replays.Service\obj\Release\TV.Replays.Service.csproj.GenerateResource.Cache
+E:\工作文件夹\Replays.Live\Live\TV.Replays.Service\obj\Release\TV.Replays.Service.dll
+E:\工作文件夹\Replays.Live\Live\TV.Replays.Service\obj\Release\TV.Replays.Service.pdb

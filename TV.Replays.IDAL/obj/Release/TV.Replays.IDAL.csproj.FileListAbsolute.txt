@@ -13,3 +13,8 @@ F:\github\live\Lib\TV.Replays.IDAL.pdb
 F:\github\live\TV.Replays.IDAL\obj\Release\TV.Replays.IDAL.csprojResolveAssemblyReference.cache
 F:\github\live\TV.Replays.IDAL\obj\Release\TV.Replays.IDAL.dll
 F:\github\live\TV.Replays.IDAL\obj\Release\TV.Replays.IDAL.pdb
+E:\工作文件夹\Replays.Live\Live\Lib\TV.Replays.IDAL.dll
+E:\工作文件夹\Replays.Live\Live\Lib\TV.Replays.IDAL.pdb
+E:\工作文件夹\Replays.Live\Live\TV.Replays.IDAL\obj\Release\TV.Replays.IDAL.csprojResolveAssemblyReference.cache
+E:\工作文件夹\Replays.Live\Live\TV.Replays.IDAL\obj\Release\TV.Replays.IDAL.dll
+E:\工作文件夹\Replays.Live\Live\TV.Replays.IDAL\obj\Release\TV.Replays.IDAL.pdb

@@ -13,3 +13,8 @@ F:\github\live\Lib\TV.Replays.Contract.pdb
 F:\github\live\TV.Replays.Contract\obj\Release\TV.Replays.Contract.csprojResolveAssemblyReference.cache
 F:\github\live\TV.Replays.Contract\obj\Release\TV.Replays.Contract.dll
 F:\github\live\TV.Replays.Contract\obj\Release\TV.Replays.Contract.pdb
+E:\工作文件夹\Replays.Live\Live\Lib\TV.Replays.Contract.dll
+E:\工作文件夹\Replays.Live\Live\Lib\TV.Replays.Contract.pdb
+E:\工作文件夹\Replays.Live\Live\TV.Replays.Contract\obj\Release\TV.Replays.Contract.csprojResolveAssemblyReference.cache
+E:\工作文件夹\Replays.Live\Live\TV.Replays.Contract\obj\Release\TV.Replays.Contract.dll
+E:\工作文件夹\Replays.Live\Live\TV.Replays.Contract\obj\Release\TV.Replays.Contract.pdb
